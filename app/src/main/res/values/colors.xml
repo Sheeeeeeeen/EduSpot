@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="light_blue">#E3F2FD</color>
+    <color name="eduspot_blue">#2196F3</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    
+    <!-- Status Colors -->
+    <color name="status_red">#F44336</color>
+    <color name="status_green">#4CAF50</color>
+    <color name="status_orange">#FF9800</color>
+    
+    <!-- Background Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="card_border">#E0E0E0</color>
+    <color name="search_border">#E0E0E0</color>
+    <color name="light_gray_bg">#F5F5F8</color>
+    <color name="nav_blue">#7D9CE9</color>
+    
+    <!-- Status Tag Backgrounds -->
+    <color name="status_occupied_bg">#F44336</color>
+    <color name="status_free_bg">#4CAF50</color>
+    <color name="status_maintenance_bg">#757575</color>
+    <color name="capacity_tag_bg">#F5F5F5</color>
+</resources>
