@@ -38,7 +38,8 @@ class SettingsActivity : AppCompatActivity() {
 
         // Edit Profile click
         binding.btnEditProfile.setOnClickListener {
-            Toast.makeText(this, "Edit Profile feature coming soon!", Toast.LENGTH_SHORT).show()
+            val intent = Intent(this, EditProfileActivity::class.java)
+            startActivity(intent)
         }
 
         // Update Password click
